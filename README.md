@@ -1,5 +1,4 @@
 # **Finding Lane Lines on the Road** 
----
 
 The goal of this project is to find lane lines on the road. The result was tested first on image and then on video.
 
